@@ -1,10 +1,14 @@
 # ADL Messenger
 
-Desktop messaging for Windows, built by **ASIA DESIGN LAB**. Keep your contacts close and open separate windows for conversations, file sharing, and one-to-one voice and video calls.
+**Miss MSN Messenger or Windows Live Messenger?** ADL Messenger is a retro rebuild of the classic Windows desktop chat experience by **ASIA DESIGN LAB**.
 
 **[Download the signed Windows installer](https://github.com/AsiaDesignLab/adl-messenger/releases/download/v0.5.35/ADL-Messenger-Setup-0.5.35.exe)** · [Release notes and checksum](https://github.com/AsiaDesignLab/adl-messenger/releases/tag/v0.5.35) · [Product website](https://www.adlmessenger.com/)
 
 [![ADL Messenger on Windows, with its contact list and conversation window](messenger-cover.png)](https://www.adlmessenger.com/)
+
+## The retro rebuild
+
+See who’s online in a compact contact list, set a personal status message, and open separate chat windows for your conversations. Emoticons, winks, and nudges are back. New chats and shared files are encrypted, and you can make one-to-one voice and video calls.
 
 ## Install on Windows
 
